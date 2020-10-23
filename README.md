@@ -1,6 +1,4 @@
-### Hi there 👋
-
-## This is a bit about me.
+# A bit about me.
 
 - 👨‍👩‍👦 Being a Father and Husband.
 - 🔭 I’m currently working on a side hustle for a cottage industry app
