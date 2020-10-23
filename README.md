@@ -15,5 +15,5 @@
 ## Work
 - Where I work:
     * [Lighthouse Labs](https://www.lighthouselabs.ca),
-    * [YYCJS](htttps://yycjs.ca),
+    * [YYCJS](https://yycjs.ca),
     * [App-A-Week](https://github.com/App-A-Week)
