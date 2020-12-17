@@ -1,7 +1,7 @@
 
 # A bit about me.
 
-- 👨‍👩‍👦 Being a Father and Husband.
+- 👨‍👩‍👦 Being a Father and Husband is awesome!
 - 🔭 I’m currently working on a side hustle for a cottage industry app
 - 🌱 I’m currently learning *Python* and *SQL*
 - 👯 I’m looking to collaborate on a couple projects for students
