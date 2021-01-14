@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I think data is cool.
 
 ## Connect.
-- 📫 How to reach me: [Tweet Me](twitter.com/misterhtmlcss)
+- 📫 How to reach me: [Tweet Me](https://twitter.com/misterhtmlcss)
 
 ## Work
 - Where I work:
