@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning *Python* and *SQL*
 - 👯 I’m looking to collaborate on a couple projects for students
 - 🤔 I’m looking for help with Node stack projects
-- 😄 Cool Projects: [Mongoose](https://mongoosejs.com/), [PoolBuddy](https://poolbuddy.io), [RedwoodJS](https://redwoodjs.com/)
+- 😄 Cool Projects || Tools: [NextJS](https://nextjs.org), [FaunaDB](https://fauna.com), [RedwoodJS](https://redwoodjs.com)
 - ⚡ Fun fact: I think data is cool.
 
 ## Connect.
