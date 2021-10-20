@@ -2,16 +2,17 @@
 # A bit about me.
 
 - 👨‍👩‍👦 Being a Father and Husband is awesome!
-- 🔭 I’m working on a side hustle focused on building a Remote Job Board; yes it'll be a little different :)
-- 🌱 I’m currently learning NextJS, 
-- 👯 I’m looking to collaborate on a couple projects for students
-- 🤔 I’m looking for help with Node stack projects
-- 😄 Tools I like: [NextJS](https://nextjs.org), [FaunaDB](https://fauna.com), [MongoDB](https://mongodb.com), [Netlify](https://netlify.com)
-- ⚡ Fun fact: I think playing with data is cool!
+- 🔭 I’m working on side hustles :)
+- 🌱 I’m currently learning ..... It changes. I like to learn., 
+- 👯 I’m looking to collaborate on an open source project, but no idea when I'll start or where, but I'm excited.
+- 🤔 I’m reading Practical Object Oriented Design by Sandi Metz
+- 😄 Tools I like: [NextJS](https://nextjs.org), [Sveltekit](https://kit.svelte.dev/), [RoR](https://rubyonrails.org), [MongoDB](https://mongodb.com)
+- ⚡  Fun fact: I think playing with APIs!
 
 ## Connect.
 - 📫 How to reach me: [Tweet Me](https://twitter.com/misterhtmlcss)
-- 📺 Join me: [Twitch](https://www.twitch.tv/misterhtmlcss)
+- 📺 Join me: [Twitch](https://www.twitch.tv/misterhtmlcss) || [YouTube](https://www.youtube.com/channel/UC0eNBdAeTGbi6BZMgLvVTmA)
+
 
 ## Work
 - Where I work:
