@@ -16,8 +16,8 @@
 ## Work
 - Where I work:
     * Freelance/Contract Clients
+    * Locate Local (https://locatelocal.ca)
     * [Lighthouse Labs](https://www.lighthouselabs.ca)
 
 - Where I volunteer
-    * [YYCJS](https://yycjs.ca)
     * [SDC](https://sdc.fyi/)
