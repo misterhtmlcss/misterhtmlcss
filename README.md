@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning ..... It changes. I like to learn., 
 - 👯 I’m looking to collaborate on an open source project, but no idea when I'll start or where, but I'm excited.
 - 🤔 I’m reading Practical Object Oriented Design by Sandi Metz
-- 😄 Tools I like: [NextJS](https://nextjs.org), [Sveltekit](https://kit.svelte.dev/), [RoR](https://rubyonrails.org), [MongoDB](https://mongodb.com)
+- 😄 Stuff I like: [NextJS](https://nextjs.org), [Sveltekit](https://kit.svelte.dev/), [RoR](https://rubyonrails.org), [MongoDB](https://mongodb.com)
 - ⚡  Fun fact: I think playing with APIs!
 
 ## Connect.
