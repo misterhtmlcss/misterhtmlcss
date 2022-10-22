@@ -15,7 +15,7 @@
 
 ## Work
 - Where I work:
-    * Freelance/Contract Clients with RoR + Node + Nextjs
-    * [Lighthouse Labs](https://www.lighthouselabs.ca)
+    * [wecasa](https://we.casa)
+    * [Student Works](https://studentworks.com)
 
 
