@@ -1,5 +1,5 @@
 
-# A bit about me.
+# About me.
 
 - 👨‍👩‍👦 Being a (newsflash 2x) Father and Husband is awesome! But really hard. 
 - 🔭 I’m working on building up my leadership skills.
@@ -16,8 +16,7 @@
 - 📺 Join me: [Twitch](https://www.twitch.tv/misterhtmlcss) || [YouTube](https://bit.ly/gh-to-yt-channel)
 
 
-## Work.
-What I have built:
+## I Built.
 - SDKs in Ruby
 - Need to put thought into this...Will add soon.
 
