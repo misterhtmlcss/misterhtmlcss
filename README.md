@@ -9,13 +9,17 @@
 - 😎 Other interesting stuff: Curious Humans, Huberman Lab, The Art of Accomplishment and the Knowledge Project
 - ⚡  Lightening fact: I think playing with APIs and Data is fun! Yeah I said it :)
 
+
 ## Connect.
+
 - 📫 How to reach me: [Tweet Me](https://twitter.com/misterhtmlcss)
 - 📺 Join me: [Twitch](https://www.twitch.tv/misterhtmlcss) || [YouTube](https://bit.ly/gh-to-yt-channel)
 
-## Work
-- Where I work:
-    * [wecasa](https://we.casa)
-    * [Student Works](https://studentworks.com)
+
+## Work.
+What I have built:
+- SDKs in Ruby
+- Need to put thought into this...Will add soon.
+
 
 
