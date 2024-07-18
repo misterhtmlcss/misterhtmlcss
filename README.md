@@ -11,7 +11,9 @@
 
 ## Connect.
 
-- 📫 How to reach me: [Tweet Me](https://twitter.com/misterhtmlcss)
+- 📫 How to reach me: [Tweet Me](https://twitter.com/roger)
+- 📫 How to follow my company: [Tweet Me](https://twitter.com/openrangedevs)
+
 
 ## I have Built.
 - All of these: SDKs, CRM, Sports Management, HR and Payment Provider (not exhaustive)
@@ -19,7 +21,7 @@
 
 ## Side hustle
 - Birthday web app
-- Car Dealership Sales app
+- Social Profile Link
 
 
 
