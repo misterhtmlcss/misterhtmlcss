@@ -7,6 +7,7 @@
 - 🔨 What I use: [Ruby on Rails](https://rubyonrails.org), [T3-ish](https://create.t3.gg)
 - 😎 Other interesting stuff: [ProductTalk](https://www.producttalk.org), Curious Humans, Huberman Lab, The Art of Accomplishment and the Knowledge Project
 - ⚡  Lightening fact: I think playing with APIs and Data is fun! Yeah I said it :)
+- playing with n8n
 
 
 ## Connect.
